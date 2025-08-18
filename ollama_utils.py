@@ -1,7 +1,7 @@
 # ollama_utils.py
 import ollama
 
-def ask_llama(prompt: str, model: str = "llama3") -> str:
+def ask_llama(prompt: str, model: str = "gemma2") -> str:
     response = ollama.chat(
         model=model,
         messages=[
