@@ -1,0 +1,637 @@
+ID,ชื่อสินค้า,ศูนย์,link
+BIO-001,ไม้หายาก,ศูนย์เชี่ยวชาญนวัตกรรมเกษตรสร้างสรรค์ (ศนก.),https://www.tistr.or.th/Bio-Industries/innoag/lamtakhong/
+BIO-002,ไม้อิงอาศัยและกล้วยไม้,ศูนย์เชี่ยวชาญนวัตกรรมเกษตรสร้างสรรค์ (ศนก.),https://www.tistr.or.th/Bio-Industries/innoag/lamtakhong/
+BIO-003,ไม้เขตอบอุ่น ไม้อัลไพน์ ไม้จากยอดดอย,ศูนย์เชี่ยวชาญนวัตกรรมเกษตรสร้างสรรค์ (ศนก.),https://www.tistr.or.th/Bio-Industries/innoag/lamtakhong/
+BIO-004,ไม้น้ำ,ศูนย์เชี่ยวชาญนวัตกรรมเกษตรสร้างสรรค์ (ศนก.),https://www.tistr.or.th/Bio-Industries/innoag/lamtakhong/
+BIO-005,ไม้ทะเลทรายและไม้อวบน้ำ,ศูนย์เชี่ยวชาญนวัตกรรมเกษตรสร้างสรรค์ (ศนก.),https://www.tistr.or.th/Bio-Industries/innoag/lamtakhong/
+BIO-006,พืชวิวัฒนาการต่ำ,ศูนย์เชี่ยวชาญนวัตกรรมเกษตรสร้างสรรค์ (ศนก.),https://www.tistr.or.th/Bio-Industries/innoag/lamtakhong/
+BIO-007,ผลิตภัณฑ์เซรั่มบำรุงผิวหน้าจากเมือกหอยทากสายพันธุ์อาช่าไทย(ACHA),ศูนย์เชี่ยวชาญความหลากหลายทางชีวภาพ (ศคช.),https://www.tistr.or.th/Bio-Industries/rdb/herbalproducts/575/
+BIO-008,ผลิตภัณฑ์เครื่องสำอางนาโนต้านความแก่ (nano anti-aging cream) “วีทริสตร้า VITISTRA”,ศูนย์เชี่ยวชาญความหลากหลายทางชีวภาพ (ศคช.),https://www.tistr.or.th/Bio-Industries/rdb/herbalproducts/575/
+BIO-009,ผลิตภัณฑ์แฮร์นาโนโทนิคผสมเทคโนโลยีไมโครอิมัลชันสารสกัดดอกคําฝอย “HERBERICH”,ศูนย์เชี่ยวชาญความหลากหลายทางชีวภาพ (ศคช.),https://www.tistr.or.th/Bio-Industries/rdb/herbalproducts/575/
+BIO-010,ผลิตภัณฑ์นาโนเซรั่มบํารุงผิวหน้าเพื่อชะลอริ้วรอยแห่งวัยจากสารสกัดใบบัวบกไร้สีบรรจุในอนุภาคนาโน “LECENTELLA”,ศูนย์เชี่ยวชาญความหลากหลายทางชีวภาพ (ศคช.),https://www.tistr.or.th/Bio-Industries/rdb/herbalproducts/575/
+BIO-011,ผลิตภัณฑ์เซรั่มไมโครคอลลาเจน จากแมงกะพรุน “JELLINO”,ศูนย์เชี่ยวชาญความหลากหลายทางชีวภาพ (ศคช.),https://www.tistr.or.th/Bio-Industries/rdb/herbalproducts/575/
+BIO-012,ผลิตภัณฑ์เครื่องสำอางจากสมุนไพรดอกดาหลา,ศูนย์เชี่ยวชาญความหลากหลายทางชีวภาพ (ศคช.),https://www.tistr.or.th/Bio-Industries/rdb/herbalproducts/575/
+BIO-013,ผลิตภัณฑ์เวชสำอางจากถั่วมะแฮะ “Helios”,ศูนย์เชี่ยวชาญความหลากหลายทางชีวภาพ (ศคช.),https://www.tistr.or.th/Bio-Industries/rdb/herbalproducts/575/
+BIO-014,มายจีซาลเฮอร์เบิล : Mygesal Herbal,ศูนย์เชี่ยวชาญความหลากหลายทางชีวภาพ (ศคช.),https://www.tistr.or.th/Bio-Industries/rdb/herbalproducts/575/
+BIO-015,ผลิตภัณฑ์รักษาแผลที่ลำใส้ : Herbacid,ศูนย์เชี่ยวชาญความหลากหลายทางชีวภาพ (ศคช.),https://www.tistr.or.th/Bio-Industries/rdb/herbalproducts/575/
+BIO-016,ผลิตภัณฑ์เสริมอาหารบำรุงสมองและเสริมสร้างความจำ : MD MATE,ศูนย์เชี่ยวชาญความหลากหลายทางชีวภาพ (ศคช.),https://www.tistr.or.th/Bio-Industries/rdb/herbalproducts/575/
+BIO-017,โทนเนอร์จากสับปะรด : Anaco,ศูนย์เชี่ยวชาญความหลากหลายทางชีวภาพ (ศคช.),https://www.tistr.or.th/Bio-Industries/rdb/herbalproducts/575/
+BIO-018,"BetaOIL :ผลิตภัณฑ์เสริมอาหารจาก RiCE BREAN OIL, RiCE EXTRACT, CANOLLA OIL, OLIVE OIL",ศูนย์เชี่ยวชาญความหลากหลายทางชีวภาพ (ศคช.),https://www.tistr.or.th/Bio-Industries/rdb/herbalproducts/575/
+BIO-019,สมุนไพร,ศูนย์เชี่ยวชาญความหลากหลายทางชีวภาพ (ศคช.),https://www.tistr.or.th/Bio-Industries/rdb/bio-diversity/214/
+BIO-020,สาหร่าย,ศูนย์เชี่ยวชาญความหลากหลายทางชีวภาพ (ศคช.),https://www.tistr.or.th/Bio-Industries/brc/alec/
+BIO-021,น้ำมันดิบจากสาหร่าย,ศูนย์เชี่ยวชาญความหลากหลายทางชีวภาพ (ศคช.),https://www.tistr.or.th/Bio-Industries/brc/alec/
+BIO-022,หัวเชื้อจุลินทรีย์,ศูนย์เชี่ยวชาญความหลากหลายทางชีวภาพ (ศคช.),https://www.tistr.or.th/Bio-Industries/rdb/bio-diversity/131/
+BIO-023,ธนาคารโปรไบโอติก,ศูนย์เชี่ยวชาญความหลากหลายทางชีวภาพ (ศคช.),https://www.tistr.or.th/Bio-Industries/rdb/bio-diversity/131/
+SD-001,ชีวมวล,ศูนย์เชี่ยวชาญนวัตกรรมพลังงานสะอาดและสิ่งแวดล้อม (ศนพ.),https://www.tistr.or.th/Sustainability/services/1/
+SD-002,เชื้อเพลิงแข็ง,ศูนย์เชี่ยวชาญนวัตกรรมพลังงานสะอาดและสิ่งแวดล้อม (ศนพ.),https://www.tistr.or.th/Sustainability/services/1/
+SD-003,เชื้อเพลิงชีวภาพ,ศูนย์เชี่ยวชาญนวัตกรรมพลังงานสะอาดและสิ่งแวดล้อม (ศนพ.),https://www.tistr.or.th/Sustainability/services/1/
+SD-004,เชื้อเพลิงเหลว,ศูนย์เชี่ยวชาญนวัตกรรมพลังงานสะอาดและสิ่งแวดล้อม (ศนพ.),https://www.tistr.or.th/Sustainability/services/1/
+SD-005,เอทานอลจากมันสำประหลัง,ศูนย์เชี่ยวชาญนวัตกรรมพลังงานสะอาดและสิ่งแวดล้อม (ศนพ.),https://www.tistr.or.th/Sustainability/products/54/
+SD-006,ก๊าซชีวภาพจากน้ำเสียโรงงานเอทานอล,ศูนย์เชี่ยวชาญนวัตกรรมพลังงานสะอาดและสิ่งแวดล้อม (ศนพ.),https://www.tistr.or.th/Sustainability/products/552/
+SD-007,ไบโอดีเซล,ศูนย์เชี่ยวชาญนวัตกรรมพลังงานสะอาดและสิ่งแวดล้อม (ศนพ.),https://www.tistr.or.th/Sustainability/products/54/
+SD-008,เทคโนโลยีการผลิตซีโอไลต์จากระดับห้องปฏิบัติการ,ศูนย์เชี่ยวชาญนวัตกรรมพลังงานสะอาดและสิ่งแวดล้อม (ศนพ.),https://www.tistr.or.th/Sustainability/products/54/
+SD-009,เห็ดไมคอร์ไรซา,ศูนย์เชี่ยวชาญนวัตกรรมพลังงานสะอาดและสิ่งแวดล้อม (ศนพ.),https://www.tistr.or.th/Sustainability/products/895/
+SD-010,เตาชีวมวล,ศูนย์เชี่ยวชาญนวัตกรรมพลังงานสะอาดและสิ่งแวดล้อม (ศนพ.),https://www.tistr.or.th/Sustainability/products/619/
+SD-011,แก๊สซิฟิเคชัน,ศูนย์เชี่ยวชาญนวัตกรรมพลังงานสะอาดและสิ่งแวดล้อม (ศนพ.),https://www.tistr.or.th/Sustainability/products/552/
+SD-012,โรงงานเอทานอล,ศูนย์เชี่ยวชาญนวัตกรรมพลังงานสะอาดและสิ่งแวดล้อม (ศนพ.),https://www.tistr.or.th/Sustainability/products/906/
+SD-013,ไม้มีค่า,ศูนย์เชี่ยวชาญนวัตกรรมพลังงานสะอาดและสิ่งแวดล้อม (ศนพ.),https://www.tistr.or.th/Sustainability/products/895/
+SD-014,สถานีวิจัยลำตะคอง,ศูนย์เชี่ยวชาญนวัตกรรมพลังงานสะอาดและสิ่งแวดล้อม (ศนพ.),https://www.tistr.or.th/Sustainability/products/552/
+SD-015,การรับคณะศึกษาดูงาน,ศูนย์เชี่ยวชาญนวัตกรรมวัสดุ (ศนว.),https://www.tistr.or.th/Sustainability/services/150/
+SD-016,จัดหลักสูตรการฝึกอบรมเป็นหมู่คณะ ด้านเทคโนโลยีการจัดการขยะชุมชนและของเหลือทิ้งอย่างยั่งยืน,ศูนย์เชี่ยวชาญนวัตกรรมวัสดุ (ศนว.),https://www.tistr.or.th/Sustainability/services/150/
+SD-017,การฝึกอบรมเชิงปฏิบัติการ (Workshop),ศูนย์เชี่ยวชาญนวัตกรรมวัสดุ (ศนว.),https://www.tistr.or.th/Sustainability/services/150/
+SD-018,รับบริการซักล้าง บดสับ และแปรรูปพลาสติก,ศูนย์เชี่ยวชาญนวัตกรรมวัสดุ (ศนว.),https://www.tistr.or.th/Sustainability/services/150/
+SD-019,รับบริการผลิตและทดสอบเชื้อเพลิงขยะ (RDF),ศูนย์เชี่ยวชาญนวัตกรรมวัสดุ (ศนว.),https://www.tistr.or.th/Sustainability/services/150/
+SD-020,วิเคราะห์ค่าคุณภาพน้ำเสียชุมชน / น้ำชะขยะ / น้ำผิวดิน อื่นๆ,ศูนย์เชี่ยวชาญนวัตกรรมวัสดุ (ศนว.),https://www.tistr.or.th/Sustainability/services/150/
+SD-021,วัสดุป้องกันการกัดเซาะตลิ่ง,ศูนย์เชี่ยวชาญนวัตกรรมวัสดุ (ศนว.),https://www.tistr.or.th/Sustainability/services/305/
+SD-022,เทคโนโลยีเมมเบรน,ศูนย์เชี่ยวชาญนวัตกรรมวัสดุ (ศนว.),https://www.tistr.or.th/Sustainability/services/307/
+SD-023,ตัวเร่งปฎิกริยา,ศูนย์เชี่ยวชาญนวัตกรรมวัสดุ (ศนว.),https://www.tistr.or.th/Sustainability/services/310/
+SD-024,บล็อกประสาน วว.,ศูนย์เชี่ยวชาญนวัตกรรมวัสดุ (ศนว.),https://www.tistr.or.th/Sustainability/services/315/
+SD-025,ถุงมือผ้าเคลือบยางพารา,ศูนย์เชี่ยวชาญนวัตกรรมวัสดุ (ศนว.),https://www.tistr.or.th/Sustainability/products/317/
+SD-026,แผ่นยางปูพื้น,ศูนย์เชี่ยวชาญนวัตกรรมวัสดุ (ศนว.),https://www.tistr.or.th/Sustainability/services/321/
+SD-027,ยางกันกระแทก,ศูนย์เชี่ยวชาญนวัตกรรมวัสดุ (ศนว.),https://www.tistr.or.th/Sustainability/services/323/
+SD-028,ผลิตภัณฑ์กาวติดฟันปลอม (Denture Adhesive),ศูนย์เชี่ยวชาญนวัตกรรมวัสดุ (ศนว.),https://www.tistr.or.th/Sustainability/Services/325/
+SD-029,เฝือกอ่อนย่อยสลายได้จากวัสดุ พลาสติกชีวภาพ “Biosplint”,ศูนย์เชี่ยวชาญนวัตกรรมวัสดุ (ศนว.),https://www.tistr.or.th/Sustainability/services/333/
+SD-030,เครื่องผสมสารอัลตราโซนิกส์ขนาดเล็ก,ศูนย์เชี่ยวชาญนวัตกรรมวัสดุ (ศนว.),https://www.tistr.or.th/Sustainability/services/336/
+SD-031,เครื่องอัลตราซาวด์กายภาพบำบัด,ศูนย์เชี่ยวชาญนวัตกรรมวัสดุ (ศนว.),https://www.tistr.or.th/Sustainability/services/338/
+SD-032,XRD,ศูนย์เชี่ยวชาญนวัตกรรมวัสดุ (ศนว.),https://www.tistr.or.th/Sustainability/services/291/
+SD-033,XRF,ศูนย์เชี่ยวชาญนวัตกรรมวัสดุ (ศนว.),https://www.tistr.or.th/Sustainability/services/294/
+SD-034,Surface Coating,ศูนย์เชี่ยวชาญนวัตกรรมวัสดุ (ศนว.),https://www.tistr.or.th/Sustainability/services/296/
+SD-035,พืชเศรษฐกิจ,ศูนย์เชี่ยวชาญนวัตกรรมพลังงานสะอาดและสิ่งแวดล้อม (ศนพ.),https://www.tistr.or.th/Sustainability/products/895/
+SD-036,CO2 capture,ศูนย์เชี่ยวชาญนวัตกรรมพลังงานสะอาดและสิ่งแวดล้อม (ศนพ.),https://www.tistr.or.th/Sustainability/products/757/
+SD-037,การท่องเที่ยวเชิงพาณิชย์,ศูนย์เชี่ยวชาญนวัตกรรมพลังงานสะอาดและสิ่งแวดล้อม (ศนพ.),https://www.tistr.or.th/Sustainability/services/778/
+SD-038,Carbon Footprint,ศูนย์เชี่ยวชาญนวัตกรรมพลังงานสะอาดและสิ่งแวดล้อม (ศนพ.),https://www.tistr.or.th/Sustainability/news/1036/
+SD-039,EIA,ศูนย์เชี่ยวชาญนวัตกรรมพลังงานสะอาดและสิ่งแวดล้อม (ศนพ.),https://www.tistr.or.th/Sustainability/services/666/
+SD-040,Biogas,ศูนย์เชี่ยวชาญนวัตกรรมพลังงานสะอาดและสิ่งแวดล้อม (ศนพ.),https://www.tistr.or.th/Sustainability/products/552/
+IS-001,บริการวิเคราะห์/ทดสอบ (Analysis/Testing) / สมุนไพร,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=2
+IS-002,กัญชา/กัญชง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=2
+IS-003,กระท่อม,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=2
+IS-004,ฟ้าทะลายโจร,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=2
+IS-005,ถั่งเช่า,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=2
+IS-006,ขมิ้นชัน,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=2
+IS-007,กระชาย,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=2
+IS-008,ว่านหางจระเข้,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=2
+IS-009,เห็ดหลินจือ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=2
+IS-010,ชา,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=2
+IS-011,ข้าว,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=2
+IS-012,สารสกัดจากหญ้าหวาน,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=2
+IS-013,สารสกัดจากเปลือกมังคุด,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=2
+IS-014,สารกลุ่มโพลีฟีนอล,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=2
+IS-015,สารไฟโตสเตอรอล,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=2
+IS-016,พริก,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=2
+IS-017,บริการวิเคราะห์/ทดสอบ (Analysis/Testing) / โลหะ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=3
+IS-018,บริการวิเคราะห์/ทดสอบ (Analysis/Testing) / ยาง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=4
+IS-019,ทดสอบ Tensile Strength and Elongation (ความทนแรงดึง และความยืดเมื่อขาด),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=4
+IS-020,ทดสอบ Tear Strength (ความทนต่อการฉีกขาด),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=4
+IS-021,ทดสอบ Bonding resistance (ความต้านแรงยึดเหนี่ยวระหว่างผิวโลหะกับยาง),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=4
+IS-022,Compression set,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=4
+IS-023,ทดสอบ Hardness (ความแข็ง),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=4
+IS-024,ทดสอบ Flex Fatigue (ความทนต่อการพับงอ),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=4
+IS-025,ทดสอบ Ozone resistance (ความทนทนต่อโอโซน),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=4
+IS-026,ทดสอบ Aging resistance (การเร่งการเสื่อมอายุ),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=4
+IS-027,ทดสอบ Density/Specific gravity (ความหนาแน่น/ความถ่วงจำเพาะ),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=4
+IS-028,ทดสอบ Abrasion Resistance (ความต้านทานการสึกหรอ),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=4
+IS-029,ทดสอบแผ่นยางรองคอสะพาน,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=4
+IS-030,ทดสอบแผ่นยางรองรางรถไฟ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=4
+IS-031,ทดสอบบล็อกยางปูพื้น,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=4
+IS-032,ทดสอบถุงมือสำหรับการตรวจวินิจฉัยทางการแพทย์ชนิดใช้ครั้งเดียว,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=4
+IS-033,ทดสอบถุงมือยางปราศจากเชื้อสำหรับการศัลยกรรมชนิดใช้ครั้งเดียว,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=4
+IS-034,การวิเคราะห์องค์ประกอบทางเคมี,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=4
+IS-035,การทดสอบสมบัติทางความร้อน,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=4
+IS-036,การทดสอบทางกล,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=4
+IS-037,ความทนทาน / ความเสื่อมสภาพ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=4
+IS-038,การทดสอบของน้ำยางข้น,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=4
+IS-039,ทดสอบความทนทาน(สมบัติเชิงกล),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=4
+IS-040,ทดสอบ Melt Flow Index (อัตราการไหลของพลาสติก),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=5
+IS-041,ทดสอบ อุณหภูมิหลอมเหลวของพลาสติก,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=5
+IS-042,ทดสอบ เสถียรภาพทางความร้อนของพลาสติก,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=5
+IS-043,ทดสอบถังเก็บน้ำพลาสติก,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=5
+IS-044,ทดสอบถังเก็บน้ำพลาสติกเสริมใยแก้ว,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=5
+IS-045,ทดสอบท่อพีวีซีแข็งสำหรับใช้ร้อยสายไฟฟ้าและสายโทรศัพท์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=5
+IS-046,ทดสอบท่อพอลิเอทิลีนสำหรับน้ำดื่ม,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=5
+IS-047,ทดสอบท่อพีวีซี แข็งสำหรับใช้เป็นท่อน้ำดื่ม,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=5
+IS-048,ทดสอบน้ำยาประสานท่อพีวีซีแข็งและข้อต่อพีวีซีแข็ง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=5
+IS-049,ทดสอบข้อต่อท่อพีวีซีแข็งสำหรับใช้กับท่อรับแรงดัน,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=5
+IS-050,บริการวิเคราะห์/ทดสอบ (Analysis/Testing) / เครื่องมือแพทย์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=6
+IS-051,หน้ากากอนามัย,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=6
+IS-052,หน้ากาก N 95 ทางการแพทย์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=6
+IS-053,ทดสอบเครื่องมือทางการแพทย์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=6
+IS-054,บริการวิเคราะห์/ทดสอบ (Analysis/Testing) / ผลิตภัณฑ์ไฟฟ้า,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=7
+IS-055,สายไฟฟ้าหุ้มฉนวนพอลิไวนิลคลอไรด์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=7
+IS-056,พัดลมไฟฟ้า,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=7
+IS-057,พัดลมไฟฟ้า,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=7
+IS-058,ทองแดงและทองแดงเจือสำหรับจุดประสงค์ทั่วไปทางไฟฟ้าเส้นและแท่ง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=7
+IS-059,หม้อหุงข้าวไฟฟ้า,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=7
+IS-060,บริการวิเคราะห์/ทดสอบ (Analysis/Testing) / สีอุตสาหกรรม,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-061,งานบริการ วิเคราะห์ทดสอบสีอุตสาหกรรม วาร์นิช ตามมาตรฐานผลิตภัณฑ์อุตสาหกรรม,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-062,มอก. 272-2564 : สีอิมัลชันใช้งานทั่วไป,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-063,มอก. 327-2553 : สีเคลือบเงาแอลคีด,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-064,มอก. 328-2551 : สีอะลูมิเนียมรองพื้นสำหรับงานไม้,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-065,มอก. 357-2551 : สีรองพื้นสำหรับงานไม้,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-066,มอก. 390-2552 : สีอะลูมิเนียม,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-067,มอก. 415-2551 : สีจราจร,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-068,มอก. 468-2550 : ไวต์สปิริตสำหรับสีและวาร์นิช,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-069,มอก. 469-2561 : สีซีเมนต์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-070,มอก. 496-2553 : ทินเนอร์สำหรับแล็กเกอร์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-071,มอก. 520-2553 : ทินเนอร์สำหรับสีพ่นแห้งเร็วไนโตรเซลลูโลส,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-072,มอก. 561-2549 : สีแล็กเกอร์ไนโตรเซลลูโลส,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-073,มอก. 562-2549 : แล็กเกอร์ใสไนโตรเซลลูโลส,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-074,มอก. 607-2550 : สีกันเพรียงไวนิล,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-075,มอก. 608-2559 : สีพ่นยานยนต์แห้งเร็วไนโตรเซลลูโลส : สีทับหน้า,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-076,มอก. 609-2559 : สีพ่นยานยนต์แห้งเร็วไนโตรเซลลูโลส: สีพื้นรองทับหน้า,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-077,มอก. 610-2552 : น้ำยาลอกสี,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-078,มอก. 618-2556 : สารยึดสำหรับสีและวาร์นิช : แอลคีดเรซิน,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-079,มอก. 691-2547 : สีอีพอกซีสำหรับงานทั่วไป,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-080,มอก. 727-2551 : สีโคลทาร์อีพ็อกซี,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-081,มอก. 734-2561 : สีอบอะมิโนแอลคีดเรซิน,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-082,มอก. 751-2559 : สีโป๊ยานยนต์แห้งเร็ว : ไนโตรเซลลูโลส,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-083,มอก. 834-2556 : สีโป๊ยานยนต์ : พอลิเอสเทอร์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-084,มอก. 883-2561 : สีอบอะคริลิกเรซิน,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-085,มอก. 1005-2564 : สีเคลือบกึ่งเงาแอลคีด,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-086,มอก. 1048-2551 : สีอีพ็อกซีสำหรับเคลือบท่อเหล็กกล้าส่งน้ำบริโภค,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-087,มอก. 1066-2534 : แอลขีดเรซินวาร์นิช,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-088,มอก. 1092-2548 : สีรองพื้นกัดผิว,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-089,มอก. 1123-2555 : สีรองพื้นสำหรับงานปูน,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-090,มอก. 1177-2556 : น้ำยารองพื้นสำหรับพื้นผิวที่เป็นฝุ่น,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-091,มอก. 1233-2553 : สารยึดสำหรับสีและวาร์นิช : อะมิโนเรซิน,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-092,มอก. 1307-2552 : สีสังกะสีรองพื้น : สิ่งนำสีอนินทรีย์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-093,มอก. 1383-2563 : สีย้อมไม้ชนิดตัวทำละลาย,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-094,มอก. 1405-2552 : สีอะลูมิเนียมทนความร้อน,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-095,มอก. 1406-2564 : สีเคลือบด้านแอลคีด,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-096,มอก. 1415-2552 : สีสังกะสีรองพื้น : สิ่งนำสีอินทรีย์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-097,มอก. 1512-2563 : สีย้อมไม้ชนิดน้ำ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-098,มอก. 1513-2563 : สีย้อมเคลือบไม้ชนิดตัวทำละลาย,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-099,มอก. 2151-2555 : พอลิยูรีเทนเคลือบผิวชนิดแยกส่วนผสมสองส่วนใช้งานทั่วไป,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-100,มอก. 2215-2548 : สีอีพอกซีชนิดฟิล์มหนา,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-101,มอก. 2241-2548 : สีเคลือบเงาอะคริลิกเรซิน,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-102,มอก. 2321-2564 : สีอิมัลชันทนสภาวะอากาศ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-103,มอก. 2364-2551 : อะคริลิกเรซินวาร์นิช,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-104,มอก. 2442-2552 : สีอิมัลชันพองตัวกันไฟ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-105,มอก. 2514-2564 : สีอิมัลชันลดความร้อนจากแสงอาทิตย์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-106,มอก. 2515-2555 : สีเคลือบเงาชนิดน้ำ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-107,มอก. 2529-2555 : สีจราจรชนิดน้ำ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-108,มอก. 2625-2557 : สีเคลือบแอลคีด : เฉพาะด้านความปลอดภัย,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-109,งานบริการ วิเคราะห์ทดสอบสีอุตสาหกรรมตามมาตรฐานสากล,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-110,ทดสอบ คุณลักษณะทางปริมาณ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-111,ทดสอบ การหาความละเอียด,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-112,การทดสอบการแห้งที่ผิว,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-113,การทดสอบการแห้งแข็ง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-114,การหากําลังซ่อนแสง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-115,"การหาค่าความแตกต่างของสีในหน่วย Gray Scale และ Delta E ตามมาตรฐานสากล ASTM E3040, ASTM D2244",ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-116,การวัดสีของเหลวโปร่งใส (สเกลสีการ์ดเนอร์),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-117,การวัดความหนืดของของเหลวโปร่งใส โดยวิธีจับเวลาการเคลื่อนที่ของฟองอากาศ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-118,การหาค่าจุดวาบไฟ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-119,การทดสอบความทนทานต่อการขัดถู,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-120,การทดสอบการกรีดเป็นตาราง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-121,การหาค่าความเงาของฟิล์มสีต่าง ๆ ยกเว้นสีบรอนซ์ที่ 20 60 และ 85 องศา,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-122,การหาค่าความหนืดโดยถ้วยวัดความหนืดฟอร์ด (Automatic Flow cup timer) ตามมาตรฐาน ASTM D1200,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-123,การหาค่าความหนืดโดยถ้วยวัดความหนืดแบบสตอร์เมอร์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-124,การหาค่าการสะท้อนรังสีแสงอาทิตย์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-125,การหาปริมาณน้ำ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-126,การหาค่าความหนาฟิล์ม,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-127,การหาค่าความหนาแน่น,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-128,การหาปริมาณสารประกอบอินทรีย์ที่ระเหยได้ (VOCs),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-129,การหาสารแอโรแมติกไฮโดรคาร์บอนที่ระเหยได้ (VACs),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-130,การหาปริมาณผงสี,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-131,การหาปริมาณสารที่ไม่ระเหย,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-132,ปริมาณตะกั่ว,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-133,ปริมาณแคดเมียม,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-134,ปริมาณปรอท,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-135,ปริมาณโครเมียมเฮกซะวาเลนต์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-136,การหาปริมาณโลหะอะลูมิเนียม,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-137,ระยะเวลาขอบเปียก,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-138,คุณลักษณะทางคุณภาพ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-139,ความทนทานต่อสภาพลมฟ้าอากาศโดยวิธีเร่งสภาวะตามมาตรฐาน ASTM G154,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-140,ความทนละอองน้ำเกลือ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-141,ความทนละอองน้ำเกลือพ่นต่อเนื่อง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-142,ความทนความชื้นภายใต้การควบแน่นต่อเนื่อง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-143,ความคงทนต่อแสง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-144,การทดสอบความทนแรงกระแทก,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-145,สมบัติในการใช้งานและลักษณะของฟิล์มเมื่อแห้ง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-146,ความทนทานต่อการดัดโค้ง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-147,ความทนน้ำ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-148,ความทนของเหลว,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-149,ความทนกรด,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-150,ความทนด่าง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-151,ความทนทานต่อการเช็ดล้าง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-152,ความทนทานต่อการขูดขีด,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-153,เสถียรภาพต่อการเก็บ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-154,เสถียรภาพต่อการเก็บ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-155,การทดสอบความติดแน่นโดยวิธีดึง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-156,ความทนเชื้อรา,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-157,ความทนตะไคร่,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-158,ภาวะในภาชนะบรรจุ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-159,การเทียบสีของฟิล์มสีด้วยตา,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-160,การเคลือบ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-161,การเกิดฝา,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=9
+IS-162,บริการวิเคราะห์/ทดสอบ (Analysis/Testing) / เครื่องวิทยุคมนาคม,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=10
+IS-163,เครื่องวิทยุคมนาคม,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=10
+IS-164,บริการวิเคราะห์/ทดสอบ (Analysis/Testing) / เคมีภัณฑ์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=11
+IS-165,บริการวิเคราะห์ความบริสุทธิ์ของสารเคมี เคมีภัณฑ์ ตามมาตรฐานผลิตภัณฑ์อุตสาหกรรม และคุณลักษณะต่างๆ ตามมาตรฐานสากล,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=07
+IS-166,การย่อยสลายทางชีวภาพประเภท Anionic ในตัวอย่าง Detergent,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=07
+IS-167,การวิเคราะห์ทดสอบพอลิอลูมิเนียมคลอไรด์ (Poly Aluminium Chloride) ตามมาตรฐานผลิตภัณฑ์อุตสาหกรรม,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=07
+IS-168,การวิเคราะห์ทดสอบสารส้ม (Alum) ตามมาตรฐานผลิตภัณฑ์อุตสาหกรรม,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=07
+IS-169,การหา %Purity ในตัวอย่าง Hydrochloric acid,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=07
+IS-170,การหา %Purity ในตัวอย่าง Sulfuric acid,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=07
+IS-171,การหา %Purity ในตัวอย่าง Sodium hydroxide,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=07
+IS-172,การหา %Purity ในตัวอย่าง ไฮโดรเจนเพอร์ออกไซด์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=07
+IS-173,การวิเคราะห์ทดสอบ Ethyl alcohol/Ethanol ตามมาตรฐานสากล,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=11
+IS-174,การวิเคราะห์ทดสอบ Zinc oxide ตามมาตรฐานสากล,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=11
+IS-175,การหาค่าความเป็นกรด-ด่าง ในตัวอย่างเคมีภัณฑ์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=11
+IS-176,การหาค่าความหนาแน่น ในตัวอย่างที่เป็นของเหลว,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=11
+IS-177,การหาค่าความถ่วงจำเพาะ ในตัวอย่างที่เป็นของเหลว,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=11
+IS-178,การหาค่าความหนืด โดยใช้ Rotational (Brookfield type) Viscometer,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=11
+IS-179,การหาปริมาณน้ำ ในตัวอย่างสารเคมี โดยวิธี Karl Fisher method (Volumetric and Coulometric Karl Fischer Titrators),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=11
+IS-180,การหาความชื้นโดยการอบแห้ง (Loss on drying) ในสารเคมี และเคมีภัณฑ์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=11
+IS-181,การหาปริมาณเถ้าทั้งหมด โดยวิธี Decomposition,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=11
+IS-182,การหาปริมาณโลหะหนักต่างๆ ในสารเคมี และเคมีภัณฑ์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=11
+IS-183,การหาค่าประสิทธิภาพการดูดซับในตัวอย่างสารดูดความชื้น,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=11
+IS-184,บริการวิเคราะห์/ทดสอบ (Analysis/Testing) / วัสดุสัมผัสอาหาร,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-185,โลหะหนักในเนื้อพลาสติก,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-186,ตะกั่ว,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-187,แคดเมียม,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-188,แบเรียม,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-189,สารหนู,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-190,สารอินทรีย์ในเนื้อพลาสติก,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-191,เอทิลเบนซีน,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-192,โทลูอีน,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-193,ไอโซพรอพิลเบนซีน,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-194,นอร์มอลพรอพิลเบนซีน,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-195,สไตรีน,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-196,สารบีสฟีนอลเอ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-197,สารบีสฟีนอลเอทั้งหมด,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-198,ไดฟีนีลคาร์บอเนต,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-199,พทาเลต (Phathalates),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-200,แอซีทอลดีไฮด์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-201,แอมีนส์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-202,อะคริลาไมด์ (Acrylamide),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-203,Polyaromatic Hydrocarbon,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-204,ปริมาณสารที่ละลายออกมาทั้งหมด,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-205,ปริมาณสารที่ละลายออกมา,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-206,สารที่ทําปฏิกิริยากับโพแทสเซียมเพอร์แมงกาเนต,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-207,โลหะหนัก (เทียบเป็นตะกั่ว),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-208,พลวง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-209, เจอร์เมเนียม,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-210,สารบีสฟีนอลเอทั้งหมด,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-211,ฟีนอล,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-212,แอมีนส์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-213,"สารอินทรีย์ที่ระเหยได้ (toluene, elhylbenzene, isopropylbenzene,n-propylbenz and styrene)",ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-214,สารที่ละลายออกมาจากการสกัดด้วยนอร์มอลเฮกเซน,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-215,สารที่ละลายออกมาจากการสกัดด้วยไซลีน,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-216,Polyvinylidene Chloride,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-217,Caprolactam,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-218,Methacrylate,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-219,Primary aromatic amines (PAAs),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-220,ความคงทนของสีที่ใช้พิมพ์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-221,สีผสมในพลาสติกที่ละลายออกมา,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=12
+IS-222,บริการวิเคราะห์/ทดสอบ (Analysis/Testing) / เครื่องจักรกล/ปั้นจั่น,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=13
+IS-223,ปั้นจั่น,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=13
+IS-224,เครื่องจักรกล,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=13
+IS-225, รถฟอร์กลิฟต์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=13
+IS-226,รถกระเช้า,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=13
+IS-227,เครื่องจักรกลหนัก,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=13
+IS-228,เครื่องจักรกลเกษตร,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=13
+IS-229,บริการวิจัยและที่ปรึกษา (Research and Consultancy) / ที่ปรึกษาจัดทำระบบคุณภาพห้องปฏิบัติการทดสอบและสอบเทียบ ตามมาตรฐาน ISO/IEC 17025,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=39
+IS-230,บริการที่ปรึกษาด้านวิชาการ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=39
+IS-231,การทดสอบด้านฟิสิกส์กายภาพ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=39
+IS-232,การทดสอบด้านเคมี,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=39
+IS-233,การทดสอบด้านชีวเคมีและจุลชีววิทยา,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=39
+IS-234,บริการที่ปรึกษาด้านวิชาการ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=39
+IS-235,การสอบเทียบด้านไฟฟ้าและอิเล็กทรอนิกส์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=39
+IS-236,การสอบเทียบด้านแสงและเสียง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=39
+IS-237,การสอบเทียบด้านความดัน,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=39
+IS-238,การสอบเทียบด้านแรงและแรงบิด,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=39
+IS-239,การสอบเทียบด้านปริมาตร,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=39
+IS-240,การสอบเทียบด้านมวลและเครื่องชั่ง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=39
+IS-241,การสอบเทียบด้านความยาวและมิติ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=39
+IS-242,การสอบเทียบด้านอุณหภูมิ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=39
+IS-243,บริการตรวจสอบ (Inspection) / ผลิตภัณฑ์ตามมาตรฐานอุตสาหกรรม(มอก.),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-244,บริภัณฑ์ส่องสว่าง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-245,TIS4-1,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-246,TIS4-2,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-247,TIS23,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-248,TIS25,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-249,TIS183,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-250,TIS191,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-251,TIS236,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-252,TIS344,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-253,TIS673-1,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-254,TIS673-2,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-255,TIS819,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-256,TIS885,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-257,TIS902-2(1),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-258,TIS902-2(2),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-259,TIS902-2(3),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-260,TIS902-2(4),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-261,TIS902-2(5),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-262,TIS902-2(6),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-263,TIS902-2(7),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-264,TIS902-2(8),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-265,TIS902-2(9),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-266,TIS902-2(10),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-267,TIS902-2(11),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-268,TIS902-2(12),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-269,TIS956,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-270, TIS1102,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-271,TIS1506,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-272,TIS1713,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-273,TIS2213,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-274,TIS2233,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-275,TIS2234,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-276,TIS 2235,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-277,TIS2309,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-278,TIS2310,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-279,TIS2337,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-280,TIS2430,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-281,ไฟฟ้ากำลัง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-282,TIS10,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-283, TIS11-3,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-284,TIS11-4,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-285,TIS11-5,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-286,TIS11-101,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-287,TIS64,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-288,TIS85,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-289,TIS166,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-290,TIS293,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-291,TIS308,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-292,TIS384,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-293,TIS408,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-294,TIS454,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-295,TIS599,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-296,TIS706,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-297,TIS824,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-298,TIS838,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-299,TIS909,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-300,TIS 955-3,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-301,TIS955-4,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-302,TIS955-5,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-303,TIS955-6,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-304,TIS955-7,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-305,TIS955-8,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-306,TIS1030,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-307,TIS1234,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-308,TIS1291-1,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-309,TIS1291-2,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-310,TIS1291-3,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-311,TIS1292,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-312, TIS1293,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-313,TIS1436,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-314,TIS1843,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-315,TIS2143,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-316,TIS2144,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-317,TIS2162,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-318,TIS2220,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-319,TIS2222,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-320,TIS2266,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-321,TIS2336,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-322,TIS2340-2,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-323,TIS2341,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-324,TIS2366,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-325,TIS2404,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-326,TIS2404,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-327,TIS2427,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-328,TIS2431,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-329,TIS2432,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-330,TIS2432,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-331,TIS2543,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-332,เครื่องใช้ไฟฟ้า,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-333,TIS92,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-334,TIS127,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-335,TIS205,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-336,TIS209,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-337,TIS366,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-338,TIS572,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-339,TIS866,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-340,TIS867,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-341,TIS870,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-342,TIS934,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-343,TIS1039,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-344,TIS1389,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-345,TIS1462,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-346,TIS1463,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-347,TIS1509,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-348,TIS1515,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-349,TIS1516,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-350,TIS1522,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-351,TIS1547,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-352,TIS1548,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-353,TIS1551,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-354,TIS1552,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-355,TIS1555,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-356,TIS1567,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-357,TIS1573,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-358,TIS1641,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-359,TIS1693,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-360,TIS1749,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-361,TIS1773,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-362,TIS1774,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-363,TIS1775,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-364,TIS1803,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-365,TIS1804,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-366,TIS1805,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-367,TIS1838,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-368,TIS1871,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-369,TIS1872,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-370,TIS1873,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-371,TIS1876,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-372,TIS1877,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-373,TIS1908,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-374,TIS1909,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-375,TIS1913,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-376,TIS1985,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-377,TIS1996,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-378,TIS2062,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-379,TIS2236,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-380,TIS2238,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-381,TIS2439,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-382,เครื่องใช้อิเล็กทรอนิกส์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-383,TIS7,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-384,TIS767,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-385,TIS1195,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-386,TIS1537,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-387,TIS1538,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-388,TIS1561,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-389,TIS1676,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-390,TIS1949,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-391,TIS1950,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-392,TIS1955,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-393,TIS1956,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-394,TIS1987,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-395,TIS1989,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-396,TIS2161,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-397,TIS2185,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-398,TIS2217,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-399,TIS2218,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-400,TIS2368,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=45
+IS-401,บริการสอบเทียบเครื่องมือ/อุปกรณ์ (Calibration) / สอบเทียบด้านความดัน,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=46
+IS-402,บริการสอบเทียบเครื่องมือ/อุปกรณ์ (Calibration) / สอบเทียบด้านความยาวและมิติ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=47
+IS-403,บริการสอบเทียบเครื่องมือ/อุปกรณ์ (Calibration) / สอบเทียบด้านความหนาแน่น,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=48
+IS-404,บริการสอบเทียบเครื่องมือ/อุปกรณ์ (Calibration) / สอบเทียบด้านปริมาตร,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=49
+IS-405,สอบเทียบปริมาตรเครื่องแก้วตวง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=49
+IS-406,บริการสอบเทียบเครื่องมือ/อุปกรณ์ (Calibration) / สอบเทียบด้านอัตราการไหล,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=50
+IS-407,บริการสอบเทียบเครื่องมือ/อุปกรณ์ (Calibration) / สอบเทียบทางความชื้น,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=51
+IS-408,บริการสอบเทียบเครื่องมือ/อุปกรณ์ (Calibration) / สอบเทียบทางด้านแรง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=52
+IS-409,บริการสอบเทียบเครื่องมือ/อุปกรณ์ (Calibration) / สอบเทียบทางไฟฟ้าและอิเล็กทรอนิกส์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-410,เครื่องมือวัดไฟฟ้า DC LF,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-411,Digital Multimeter,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-412,Clamp Meter,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-413,Earth Clamp Meter,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-414,AC/DC Calibrator,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-415,AC/DC Power Meter,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-416,เครื่องมือวัดความต้านทาน,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-417,LCR Meter,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-418,Insulation Tester,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-419,Surface Resistance Meter,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-420,Ohm Meter,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-421,Capacitance Meter,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-422,Inductance Meter,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-423,Resistance Standard,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-424,Capacitance Standard,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-425,Inductance Standard,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-426,Earth Tester,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-427,High Resistance Meter,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-428,High Resistance Source,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-429,Wheatstone Bridge,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-430,Double Bridge,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-431,เครื่องมือวัดไฟฟ้าแรงดันสูง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-432,Withstanding Voltage Tester,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-433,High Insulation Tester,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-434,Hi Pot Tester,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-435,High Voltage Generator,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-436,High Voltage Digital Meter,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-437,Spark Tester,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-438,High Voltage Probe,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-439,เครื่องวัดความถี่และเวลา,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-440,Signal Generator,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-441,Universal Counter,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-442,Electronic Timer,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-443,Stop Watch,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=53
+IS-444,บริการสอบเทียบเครื่องมือ/อุปกรณ์ (Calibration) / สอบเทียบทางเสียง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=54
+IS-445,บริการสอบเทียบเครื่องมือ/อุปกรณ์ (Calibration) / สอบเทียบทางแสง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=55
+IS-446,บริการสอบเทียบเครื่องมือ/อุปกรณ์ (Calibration) / สอบเทียบทางอุณหภูมิ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=56
+IS-447,บริการสอบเทียบเครื่องมือ/อุปกรณ์ (Calibration) / สอบเทียบมวลและเครื่องชั่ง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=57
+IS-448,บริการทดสอบความชำนาญ (Proficiency Testing) / สอบเทียบเครื่องมือวัดอุณหภูมิ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=58
+IS-449,MTC-PTCA-TM01 สอบเทียบเครื่องมือ Digital Thermometer with PRT Sensor,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=58
+IS-450,MTC-PTCA-TM02 สอบเทียบเครื่องมือ Liquid bath,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=58
+IS-451,MTC-PTCA-TM03 สอบเทียบเครื่องมือ Autoclave,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=58
+IS-452,MTC-PTCA-TM04 สอบเทียบเครื่องมือ Digital Thermometer with RTD Sensor,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=58
+IS-453,MTC-PTCA-TM05 สอบเทียบเครื่องมือ Platinum resistance thermometer,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=58
+IS-454,MTC-PTCA-TM06 สอบเทียบเครื่องมือ Temperature controlled enclosures,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=58
+IS-455,บริการทดสอบความชำนาญ (Proficiency Testing) / สอบเทียบเครื่องมือวัดไฟฟ้าและอิเล็กทรอนิกส์,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=59
+IS-456,รหัสโครงการ MTC-PTCA-EM01 โปรแกรมทดสอบความชำนาญการสอบเทียบเครื่องมือวัดกระแสไฟฟ้า Clamp Meter (Calibration of Clamp Meter),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=59
+IS-457,รหัสโครงการ MTC-PTCA-EG01 โปรแกรมทดสอบความชำนาญการสอบเทียบเครื่องกำเนิดไฟฟ้าแรงดันสูง (Calibration of High Voltage Generator),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=59
+IS-458,บริการทดสอบความชำนาญ (Proficiency Testing) / สอบเทียบเครื่องมือวัดทางกล,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=60
+IS-459,MTC-PTCA-FM01,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=60
+IS-460, Calibration of Universal Testing Machine,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=60
+IS-461,Tensile Force 2 kN to 10 kN,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=60
+IS-462,Tensile Force 10 kN to 50 KN,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=60
+IS-463,Universal Testing Machine,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=60
+IS-464,บริการทดสอบความชำนาญ (Proficiency Testing) / ทดสอบทางเคมี,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=61
+IS-465,MTC-PTTE-CH01,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=61
+IS-466,MTC-PTTE-CH02,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=61
+IS-467,MTC-PTTE-CH03,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=61
+IS-468,MTC-PTTE-CH04,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=61
+IS-469,MTC-PTTE-CH05,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=61
+IS-470,บริการวิเคราะห์/ทดสอบ (Analysis/Testing) / วัตถุเจือปนอาหาร,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-471,Aspartame,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-472,Acesulfame Potassium (Acesulfame K),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-473,Ascorbic acid,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-474,Benzoic acid and its salt,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-475,Calcium hydrogen phosphate,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-476,Calcium oxide,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-477,Calcium propionate,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-478,Carob bean gum,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-479,Carrageenan,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-480,"Citric acid (anhydrous, monohydrate)",ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-481,"DL malic acid or Malic acid, DL-",ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-482,Erythritol,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-483,Glucono-d-Lactone or Glucono Delta-Lactone,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-484,Glycerol,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-485,Glycine,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-486,Guar gum,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-487,Hydrogenated starch hydrolysate (Polyglycitol syrup),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-488,Konjac Flour,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-489,L-Cysteine hydrochloride,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-490,Lecithin,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-491,Lysozyme Hydrochloride,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-492,Maltitol,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-493,Maltitol Syrup,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-494,Maltodextrin,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-495,Modified Starches,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-496,Mono,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-497,Paprika Oleoresin,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-498,Pectins,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-499,Potassium Nitrate,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-500,Potassium sorbate,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-501,Silicon dioxide,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-502,Sodium acetate (anhydrous),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-503,Sodium Erythorbate,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-504,Sodium fumarate,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-505,Sodium Hydrogen Carbonate,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-506,Sodium Gluconate,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-507,Sorbitan Tristearate,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-508,Sorbitol Syrup,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-509,Steviol Glycosides,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-510,Sucralose,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-511,Sucrose Oligoester Type II,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-512,Tara gum,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-513,Trisodium Citrate,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-514,Xanthan gum,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-515,Xylitol,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=62
+IS-516,บริการวิเคราะห์/ทดสอบ (Analysis/Testing) / โลหะ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=67
+IS-517,การทดสอบความผ่อนคลาย,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=67
+IS-518,การทดสอบแรงดึง,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=67
+IS-519,บริการวิเคราะห์ส่วนประกอบทางเคมีของโลหะ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=67
+IS-520,การทดสอบราวเหล็กลูกฟูกกันรถสำหรับทางหลวง มอก.248-2531,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=67
+IS-521,การวิเคราะห์องค์ประกอบทางเคมี,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=67
+IS-522,การวิเคราะห์โครงสร้างผลึก,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=67
+IS-523,บริการวิเคราะห์/ทดสอบ (Analysis/Testing) / สิ่งแวดล้อม,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=68
+IS-524,การวิเคราะห์น้ำ แหล่งน้ำธรรมชาติ น้ำเสีย น้ำก่อนบำบัดและหลังบำบัด,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=68
+IS-525,การวิเคราะห์ดิน,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=68
+IS-526,การวิเคราะห์ตัวอย่างผลิตภัณฑ์เพื่อขอการรับรองฉลากเขียว,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=68
+IS-527,บริการสอบเทียบเครื่องมือ/อุปกรณ์ (Calibration) / สอบเทียบห้องปฏิบัติการมาตรฐานทางแสงและอุณหภูมิ,ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=101
+IS-528,ตู้แช่แข็ง ตู้เย็น ตู่บ่ม เพาะเชื้อ ตู้อบลมร้อน (มาตรฐาน TLAS G-20),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=101
+IS-529,อ่างน้ำร้อนงานทดสอบ (มาตรฐาน ASTM E 715-80),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=101
+IS-530,เตาเผา (มาตรฐาน BS 4309),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=101
+IS-531,หม้อนึ่งแรงดัน (มาตรฐาน BS 2646),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=101
+IS-532,ตู้ควบคุมสภาวะแวดล้อม (มาตรฐาน IEC 60068-3-11 and DKD R5-7),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=101
+IS-533,เครื่องมือวัดอุณหภูมิพร้อมหัววัด RTD/Thermocouple (วัดเปรียบเทียบกับเครื่องมือมาตรฐาน),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=101
+IS-534,เครื่องหมุนเหวี่ยง (วัดเปรียบเทียบกับเครื่องมือมาตรฐาน),ศูนย์ทดสอบและมาตรวิทยา (ศทม.),https://tistrservices.tistr.or.th/mtc_web/index.php?p=17&DATA_ID=101
+IS-535,การวิเคราะห์ ทดสอบ ทั้งแบบทำลายและแบบไม่ทำลาย  บริการวิจัย/วิเคราะห์ทดสอบ การสลายตัวทางชีวภาพ  รวมถึงการวิเคราะห์หาสาเหตุความเสียหายชิ้นส่วน โครงสร้างและเครื่องจักร,ศูนย์พัฒนาและวิเคราะห์สมบัติของวัสดุ (ศพว.),https://www.tistr.or.th/Industrials/material-properties/93/
+IS-536,การตรวจสอบและประเมินอายุการใช้งานที่เหลือของหม้อน้ำ หม้อต้ม และภาชนะรับความดัน และโครงสร้างทางวิศวกรรม,ศูนย์พัฒนาและวิเคราะห์สมบัติของวัสดุ (ศพว.),https://www.tistr.or.th/Industrials/material-properties/93/
+IS-537,ที่ปรึกษาทางวิศวกรรมเพื่อพัฒนากระบวนการและปรับปรุงคุณภาพผลิตภัณฑ์,ศูนย์พัฒนาและวิเคราะห์สมบัติของวัสดุ (ศพว.),https://www.tistr.or.th/Industrials/material-properties/93/
+IS-538,บริการวิเคราะห์/ทดสอบอุปกรณ์การแพทย์,ศูนย์พัฒนาและวิเคราะห์สมบัติของวัสดุ (ศพว.),https://www.tistr.or.th/Industrials/material-properties/93/
+IS-539,บริการงานวิจัยเพื่อแก้ไขปัญหาทางวิศวกรรมและให้คำปรึกษาด้านมาตรฐาน การทดสอบวัสดุและผลิตภัณฑ์,ศูนย์พัฒนาและวิเคราะห์สมบัติของวัสดุ (ศพว.),https://www.tistr.or.th/Industrials/material-properties/93/
+IS-540,บริการถ่ายทอดเทคโนโลยีด้านวัสดุและกระบวนการวิเคราะห์ ทดสอบ การพัฒนาผลิตภัณฑ์,ศูนย์พัฒนาและวิเคราะห์สมบัติของวัสดุ (ศพว.),https://www.tistr.or.th/Industrials/material-properties/93/
+IS-541,บริการวิจัย/วิเคราะห์ทดสอบ การสลายตัวทางชีวภาพของวัสดุที่เป็นมิตรต่อสิ่งแวดล้อม อาทิ พลาสติกสลายตัวทางชีวภาพ ผลิตภัณฑ์ทำความสะอาดในครัวเรือน น้ำมันหล่อลื่น เป็นต้น,ศูนย์พัฒนาและวิเคราะห์สมบัติของวัสดุ (ศพว.),https://www.tistr.or.th/Industrials/material-properties/93/
+IS-542,ชิ้นส่วนเส้นลวดพันเกลียว ในอุตสาหกรรมการผลิตโครงสร้างสลิง,ศูนย์พัฒนาและวิเคราะห์สมบัติของวัสดุ (ศพว.),https://www.tistr.or.th/Industrials/material-properties/116/
+IS-543,ชิ้นส่วนกระป๋องบรรจุทูน่าในซอสมะเขือเทศ ในอุตสาหกรรมอาหาร,ศูนย์พัฒนาและวิเคราะห์สมบัติของวัสดุ (ศพว.),https://www.tistr.or.th/Industrials/material-properties/116/
+IS-544,ชิ้นส่วนท่อส่งน้ำมัน ในอุตสาหกรรมปิโตรเคมี,ศูนย์พัฒนาและวิเคราะห์สมบัติของวัสดุ (ศพว.),https://www.tistr.or.th/Industrials/material-properties/116/
+IS-545,ชิ้นส่วนท่อขนาดเล็กจากอุปกรณ์แลกเปลี่ยนความร้อน ในอุตสาหกรรมเคมี,ศูนย์พัฒนาและวิเคราะห์สมบัติของวัสดุ (ศพว.),https://www.tistr.or.th/Industrials/material-properties/116/
+IS-546,ชิ้นส่วนเหล็กแท่งสเตนเลสของเครื่องกรองอนุภาคขนาดเล็ก ในอุตสาหกรรมปิโตรเคมี,ศูนย์พัฒนาและวิเคราะห์สมบัติของวัสดุ (ศพว.),https://www.tistr.or.th/Industrials/material-properties/116/
+IS-547,ชิ้นส่วนท่อไอน้ำรับความดันสูงและท่อโค้ง ในอุตสาหกรรมการผลิตไฟฟ้า,ศูนย์พัฒนาและวิเคราะห์สมบัติของวัสดุ (ศพว.),https://www.tistr.or.th/Industrials/material-properties/116/
+IS-548,ชิ้นส่วนขนาดเล็กของหยดโลหะเชื่อมจากการผลิตท่อไอเสีย ในอุตสาหกรรมยานยนต์,ศูนย์พัฒนาและวิเคราะห์สมบัติของวัสดุ (ศพว.),https://www.tistr.or.th/Industrials/material-properties/116/
+IS-549,ชิ้นส่วนโครงฝาครอบอุปกรณ์แลกเปลี่ยนความร้อน ในอุตสาหกรรมการผลิตสิ่งทอ,ศูนย์พัฒนาและวิเคราะห์สมบัติของวัสดุ (ศพว.),https://www.tistr.or.th/Industrials/material-properties/116/
+IS-550,ชิ้นส่วนอุปกรณ์ป้องกันก๊าซรั่วซึม ในอุตสาหกรรมการผลิตและขนส่งก๊าซ,ศูนย์พัฒนาและวิเคราะห์สมบัติของวัสดุ (ศพว.),https://www.tistr.or.th/Industrials/material-properties/116/
+IS-551,ชิ้นส่วนท่อส่งน้ำประปาของการประปาส่วนภูมิภาค ในอุตสาหกรรมการผลิตเหล็กกล้าเชื่อมด้วยไฟฟ้าสำหรับส่งน้ำ,ศูนย์พัฒนาและวิเคราะห์สมบัติของวัสดุ (ศพว.),https://www.tistr.or.th/Industrials/material-properties/116/
+IS-552,ชิ้นส่วนท่อส่งน้ำสเตนเลสสำหรับโรงผลิตยางล้อรถ ในอุตสาหกรรมยานยนต์,ศูนย์พัฒนาและวิเคราะห์สมบัติของวัสดุ (ศพว.),https://www.tistr.or.th/Industrials/material-properties/116/
+IS-553,ชิ้นส่วนเกียร์เฟืองจากระบบผลิตเม็ดพลาสติกสำหรับผลิตขวดเครื่องดื่มพลาสติกและขวดน้ำแร่ ในอุตสาหกรรมปิโตรเคมี,ศูนย์พัฒนาและวิเคราะห์สมบัติของวัสดุ (ศพว.),https://www.tistr.or.th/Industrials/material-properties/116/
+IS-554,ชิ้นส่วนแผ่นไฟเบอร์กลาส ในอุตสาหกรรมท่องเที่ยวและโรงแรม,ศูนย์พัฒนาและวิเคราะห์สมบัติของวัสดุ (ศพว.),https://www.tistr.or.th/Industrials/material-properties/116/
+IS-555,ชิ้นส่วนหน้าแปลนจากระบบผลิตเม็ดพลาสติก ในอุตสาหกรรมปิโตรเคมี,ศูนย์พัฒนาและวิเคราะห์สมบัติของวัสดุ (ศพว.),https://www.tistr.or.th/Industrials/material-properties/116/
+IS-556,ชิ้นส่วนตะปูหัวใหญ่ น็อต โครงค้ำ และอุปกรณ์จับยึด จากสวนน้ำ ในอุตสาหกรรมท่องเที่ยวและโรงแรม,ศูนย์พัฒนาและวิเคราะห์สมบัติของวัสดุ (ศพว.),https://www.tistr.or.th/Industrials/material-properties/116/
+IS-557,ชิ้นส่วนท่อโค้ง ในอุตสาหกรรมเคมี,ศูนย์พัฒนาและวิเคราะห์สมบัติของวัสดุ (ศพว.),https://www.tistr.or.th/Industrials/material-properties/116/
+IS-558,วารสารการบรรจุภัณฑ์,ศูนย์การบรรจุหีบห่อไทย (ศบท.),https://www.tistr.or.th/Industrials/news/446/
+IS-559,กล่องล็อกกลิ่น 100% OZONE รุ่น Emerald Cut,ศูนย์การบรรจุหีบห่อไทย (ศบท.),https://www.tistr.or.th/Industrials/packaging/373/
+IS-560,บรรจุภัณฑ์ฟิล์มบริโภคได้กันมอดสำหรับข้าวกล้องอินทรีย์พร้อมหุง,ศูนย์การบรรจุหีบห่อไทย (ศบท.),https://www.tistr.or.th/Industrials/packaging/373/
+IS-561,การพัฒนาบรรจุภัณฑ์เขียวจากชานอ้อยสำหรับอาหารผู้ป่วยใน,ศูนย์การบรรจุหีบห่อไทย (ศบท.),https://www.tistr.or.th/Industrials/packaging/373/
+IS-562,บรรจุุภัณฑ์อัจฉริยะบ่งชี้ความหืนอาหารทอดน้ำมันท่วม,ศูนย์การบรรจุหีบห่อไทย (ศบท.),https://www.tistr.or.th/Industrials/packaging/373/
+IS-563,บรรจุภัณฑ์อัจฉริยะบ่งชี้ความปลอดภัยปริมาณซัลเฟอร์ไดออกไซด์ในลำไย,ศูนย์การบรรจุหีบห่อไทย (ศบท.),https://www.tistr.or.th/Industrials/packaging/373/
+IS-564,บรรจุภัณฑ์แอคทีฟ,ศูนย์การบรรจุหีบห่อไทย (ศบท.),https://www.tistr.or.th/Industrials/packaging/373/
+IS-565,บรรจุภัณฑ์ขายปลีกเพื่อสิ่งแวดล้อม,ศูนย์การบรรจุหีบห่อไทย (ศบท.),https://www.tistr.or.th/Industrials/packaging/373/
+IS-566,บรรจุภัณสำหรับสัปปะรดผลสด,ศูนย์การบรรจุหีบห่อไทย (ศบท.),https://www.tistr.or.th/Industrials/packaging/373/
+IS-567,การทดสอบบรรจุภัณฑ์ขนส่งด้วยมาตรฐาน,ศูนย์การบรรจุหีบห่อไทย (ศบท.),https://www.tistr.or.th/Industrials/packaging/373/
+IS-568,การทดสอบบรรจุภัณฑ์สำหรับสินค้าอันตราย,ศูนย์การบรรจุหีบห่อไทย (ศบท.),https://www.tistr.or.th/Industrials/packaging/373/
+IS-569,การทดสอบวัสดุสัมผัสอาหาร,ศูนย์การบรรจุหีบห่อไทย (ศบท.),https://www.tistr.or.th/Industrials/packaging/373/
+IS-570,ระบบรางและขนส่ง,ศูนย์ทดสอบมาตรฐานขนส่งทางราง (ศทร.),https://www.tistr.or.th/Industrials/railway-transport/1/
+IS-571,ยานยนต์และยานยนต์ไฟฟ้า,ศูนย์ทดสอบมาตรฐานขนส่งทางราง (ศทร.),https://www.tistr.or.th/Industrials/railway-transport/1/
+IS-572,ความปลอดภัยทางถนน,ศูนย์ทดสอบมาตรฐานขนส่งทางราง (ศทร.),https://www.tistr.or.th/Industrials/railway-transport/1/
+IS-573,โยธาและวัสดุก่อสร้าง,ศูนย์ทดสอบมาตรฐานขนส่งทางราง (ศทร.),https://www.tistr.or.th/Industrials/railway-transport/1/
